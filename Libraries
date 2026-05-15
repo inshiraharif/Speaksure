@@ -1,0 +1,14 @@
+#Install all library
+
+pip install SpeechRecognition gTTS gradio matplotlib librosa textblob segno pydub
+
+#Install Indivisualy library
+
+pip install SpeechRecognition
+pip install gTTS
+pip install gradio
+pip install matplotlib
+pip install librosa
+pip install textblob
+pip install segno
+pip install pydub
