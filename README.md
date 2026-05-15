@@ -1,2 +1,2 @@
 # Speaksure
-Developed an AI-powered speech analysis web application capable of speech recognition, waveform visualization, sentiment analysis, and text-to-speech synthesis using Python and Gradio.
+This project is a Python-based speech processing and audio analysis application that allows users to upload or record audio files and convert speech into text while generating multiple visual analytics.
