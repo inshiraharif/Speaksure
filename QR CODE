@@ -1,0 +1,13 @@
+import segno
+
+# Data to encode in the QR code
+data = "https://c2c5b78d422955de6c.gradio.live"
+
+# Generate the QR code
+qr = segno.make(data)
+
+# Save the QR code as a 500x500 pixel image
+qr.save(" speaksure_QR.png", scale=10)
+
+# Displaying the saved QR code path for user
+"qrcode_500x500.png saved successfully."
